@@ -1,4 +1,4 @@
-(function () {
+(function() {
   const currentEl = document.getElementById('current');
   const historyEl = document.getElementById('history');
   const keys = document.querySelector('.keys');
